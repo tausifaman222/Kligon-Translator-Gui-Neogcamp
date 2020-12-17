@@ -52,11 +52,11 @@ h1 img {
   margin: auto;
   margin-left: 1rem;
   margin-right: 1rem;
-  background-color: #c5fff7;
+  background-color: #5cebd8;
   display: inline-block;
   padding: 1rem 2rem;
   border-radius: 1rem;
-  box-shadow: 5px 10px 8px rgb(231, 220, 220);
+  box-shadow: 5px 10px 8px rgb(23, 58, 71);
   border: none;
   font-size: 1rem;
   color: #ccc;
@@ -87,8 +87,8 @@ textarea {
   border-radius: 1rem;
   border: none;
   font-size: 1.4rem;
-  background-color: #ccc;
-  box-shadow: 5px 10px 8px rgb(231, 220, 220);
+  background-color: rgb(193, 229, 160);
+  box-shadow: 5px 10px 8px rgb(243, 204, 204);
 }
 
 p {
