@@ -36,12 +36,12 @@ margin: auto; */
 }
 
 h1 img {
-  position: absolute ;
+  position: relative ;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 50px;
-  max-width: 60px;
+  height: 100px;
+  max-width: 100px;
   
 }
 
