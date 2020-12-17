@@ -43,11 +43,11 @@ h1 img {
 .btn {
   border-radius: 49px;
   background: #00ff15;
-  box-shadow: 28px 28px 56px #64f083, -28px -28px 56px #6afc96;
+  box-shadow: 28px 28px 56px #6afc96, -28px -28px 56px #6afc96;
   margin: auto;
   margin-left: 1rem;
   margin-right: 1rem;
-  background-color: #111827;
+  background-color: #c5fff7;
   display: inline-block;
   padding: 1rem 2rem;
   border-radius: 1rem;
@@ -100,7 +100,7 @@ p {
 }
 
 footer {
-  background-color: #111827;
+  background-color: #5a0848;
   padding: 2rem 0rem;
   margin-top: 3rem;
   border-top-right-radius: 1rem;
