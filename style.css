@@ -58,8 +58,8 @@ h1 img {
   border-radius: 1rem;
   box-shadow: 5px 10px 8px rgb(23, 58, 71);
   border: none;
-  font-size: 1rem;
-  color: #ccc;
+  font-size: 1.5rem;
+  color: rgb(3, 5, 107);
 }
 
 section {
