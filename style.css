@@ -37,7 +37,12 @@ margin: auto; */
 
 h1 img {
   position: absolute ;
-  top: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50px;
+  max-width: 60px;
+  
 }
 
 .btn {
